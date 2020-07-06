@@ -2,4 +2,4 @@
 # Git lab
 * Git lab for EU
 > What is git?
->  Git is free and open source version control system
+> Git is free and open source version control system
